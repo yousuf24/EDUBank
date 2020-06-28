@@ -1,0 +1,1 @@
+java -cp C:\Users\moham\eclipse-workspace\Sgjp\bin;lib/* org.testng.TestNG testng.xml
