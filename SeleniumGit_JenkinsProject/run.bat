@@ -1,0 +1,1 @@
+ java -cp C:\Users\moham\eclipse-workspace\SeleniumGit_JenkinsProject\bin;lib/* org.testng.TestNG testng.xml
